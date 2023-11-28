@@ -1,0 +1,6 @@
+sshpass -p '<password>' ssh '<Domain\Username>'@<Server_Name_or_IP> <Command>
+sshpass -p '<password>' ssh '<Domain\Username>'@<Server_Name_or_IP> <Command>
+sshpass -p '<password>' ssh '<Domain\Username>'@<Server_Name_or_IP> <Command>
+sshpass -p '<password>' ssh '<Domain\Username>'@<Server_Name_or_IP> <Command>
+sshpass -p '<password>' ssh '<Domain\Username>'@<Server_Name_or_IP> <Command>
+sshpass -p '<password>' ssh '<Domain\Username>'@<Server_Name_or_IP> <Command>
