@@ -11,6 +11,9 @@ This script provides a convenient way to manage servers(Including NetApp, EMC, D
 - **Error Handling:** The script is equipped with error-handling mechanisms to detect and address issues during execution.
 
 ## Usage
+- **Lunix** Works on any Lunix server or can use MobaXterm.
+  ```bash
+  python server_management.py
 
 ### Installation
 
