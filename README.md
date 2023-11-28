@@ -20,4 +20,4 @@ This script provides a convenient way to manage servers(Including NetApp, EMC, D
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/server-management-script.git
+   git clone https://github.com/manubreddy/server-management-script.git
